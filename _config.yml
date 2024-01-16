@@ -4,3 +4,4 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: [Lab-5]
 description: [Page Reclamation in xv6]
+url: [https://col331-Lab5.com]
